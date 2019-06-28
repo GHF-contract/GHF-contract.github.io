@@ -12468,12 +12468,12 @@
         "5777": {
             "events": {},
             "links": {},
-            "address": "0xe5497507c3575F89c82A60eDeDBd4e55C7D7744C",
-            "transactionHash": "0xa9eef99846d538030bcd17ca5233a6ca00d55e8850e4dea9a746fbab529bdcff"
+            "address": "0x3B1DC1941Fa5001A3ff83eB6980DAd5e0ee7A0c9",
+            "transactionHash": "0x3b914ab8d66bf2220797e35afb0c24609fa5de67ba48906987c7aa0e72e2cefd"
         }
     },
     "schemaVersion": "3.0.1",
-    "updatedAt": "2019-06-28T08:48:18.452Z",
+    "updatedAt": "2019-06-28T10:30:54.884Z",
     "devdoc": {
         "methods": {
             "allowance(address,address)": {
