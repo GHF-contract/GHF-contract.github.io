@@ -12560,12 +12560,12 @@
         "5777": {
             "events": {},
             "links": {},
-            "address": "0x9fbD3EA5978E209D8d22d8fF51fb35A871b0Aa5D",
-            "transactionHash": "0x1f9763713b828b721263dd9818004b6e3f00703c2230372fbc7e6838356ca230"
+            "address": "0x2209b2090FBEdB552982C76F0BfFA744470fC3d0",
+            "transactionHash": "0x884e7356bc38b9495a15d1a85bedc815431e4d247cf014834e99aedeee65cd9d"
         }
     },
     "schemaVersion": "3.0.1",
-    "updatedAt": "2019-06-30T09:51:05.933Z",
+    "updatedAt": "2019-06-30T11:16:45.595Z",
     "devdoc": {
         "methods": {
             "allowance(address,address)": {
